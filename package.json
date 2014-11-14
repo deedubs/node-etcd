@@ -1,0 +1,22 @@
+{
+  "name": "node-etcd",
+  "version": "0.0.1-alpha",
+  "description": "node-etcd =========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deedubs/node-etcd.git"
+  },
+  "keywords": [
+    "etcd"
+  ],
+  "author": "Dan Williams <me@deedubs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deedubs/node-etcd/issues"
+  },
+  "homepage": "https://github.com/deedubs/node-etcd"
+}
